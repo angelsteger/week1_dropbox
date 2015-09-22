@@ -5,4 +5,4 @@ Movie made with Licecap
 
 Hours spent: 13
 
-/Users/angel/Dropbox (Personal)/git_codepath/Week1_Dropbox/week1_dropbox.gif
+![screenshot](week1_dropbox.gif)
